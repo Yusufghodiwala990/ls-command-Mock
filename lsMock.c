@@ -1,6 +1,6 @@
 /*######################################################################################
 
-# Name: lab3.c
+# Name: lsMock.c
 # Written by: Yusuf Ghodiwala - February 2021
 # Purpose: To be able to pass arguments to get specific information/attributes about a directory and it's files (mock 'ls' command)
 # 
